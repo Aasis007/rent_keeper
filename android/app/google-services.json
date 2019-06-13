@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368756448449",
+    "firebase_url": "https://rentkeeper.firebaseio.com",
+    "project_id": "rentkeeper",
+    "storage_bucket": "rentkeeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368756448449:android:d4e60227dd62bcd8",
+        "android_client_info": {
+          "package_name": "com.cloudverge.rent_keeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368756448449-tuhl17i5cfdt2d9snoa463vjm3k0ksis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudverge.rent_keeper",
+            "certificate_hash": "37a0c31661ded7fbfdb6b72c66be2e54764b56fa"
+          }
+        },
+        {
+          "client_id": "368756448449-dm373sjolpv6qo9s8i0rl913ugu4vdqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhL-M3ewAnsj-Bu-eXfpfnhsC-aMBtZbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368756448449-dm373sjolpv6qo9s8i0rl913ugu4vdqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
